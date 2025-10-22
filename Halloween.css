@@ -18,6 +18,7 @@ body {
   align-items: center;         /* Center items vertically */
   flex-wrap: wrap;             /* Wrap if too many items */
   gap: 20px;                   /* Space between items */
+  
 }
 
 /* Each box inside the flex container */
